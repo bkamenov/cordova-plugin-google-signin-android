@@ -1,0 +1,35 @@
+{
+  "name": "cordova-plugin-google-signin-android",
+  "version": "1.0.0",
+  "description": "Cordova Plugin for Google Sign-In on Android",
+  "license": "MIT",
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova",
+    "google sign-in",
+    "google login"
+  ],
+  "engines": {
+    "cordovaDependencies": {
+      "cordova-android": ">=12.0.0"
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bkamenov/cordova-plugin-google-signin-android.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bkamenov/cordova-plugin-google-signin-android/issues"
+  },
+  "author": "Boris Kamenov",
+  "cordova": {
+    "id": "cordova-plugin-google-signin-android",
+    "platforms": [
+      "android"
+    ]
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
